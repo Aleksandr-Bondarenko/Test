@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/scriptOne.js","index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI;;ACAZ,aAAA,IAAA,EAAA,EAAA,QAAA,mBAAA,SAAA,EAAA,GAAA,OAAA,GAAA,EAAA,WAAA,EAAA,CAAA,QAAA","file":"src.997b27c5.js","sourceRoot":"..\\src","sourcesContent":["console.log(\"Run first script\");\r\n","import a from \"./js/scriptOne\";\r\n"]}
