@@ -1,2 +1,2 @@
-# Test
-My testing repository
+# Trial repository
+Repository for my experiments:)
